@@ -7,15 +7,16 @@ Ashutosh Barawkar | Alankrita Roy | Tenjue Koh | Amurta Bhuskute
 
  ## Summary
  Walt's Cycle is a bike shop and bicycle dealer serving Sunnyvale, California, and the South San Francisco Bay Area since 1953.
+
 Product and Service offerings:
   - Bicycle Sales
   - Parts and Accessories
   - Service
    
 #####    
-- Offers internet sales for certain products.
-- Does not offer delivery
-- Typical Customer Location: 30 Miles in and around store location
+-Offers internet sales for certain products.
+-Does not offer delivery
+-Typical Customer Location: 30 Miles in and around store location
  
 ## Advertising Goals
  The Advertising Goals for Walt’s was two folds: 
