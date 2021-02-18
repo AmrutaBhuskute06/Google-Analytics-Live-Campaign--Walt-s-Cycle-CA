@@ -11,13 +11,32 @@ Product and Service offerings:
  1. Creating Awareness about Walt’s Cycle within its targeted customer base 
  2. Generating Sales through its online store
 
-### PROMOTIONAL CAMPAIGN
-SERVICES AND ACCESSORIES
+### 1. PROMOTIONAL CAMPAIGN
+#### - BIKES
+##### Criteria: High CTR, High Impression, High Clicks
 
-#### Criteria
-High CTR, High Impression, High Clicks
+<img width="597" alt="Screen Shot 2021-02-18 at 4 44 30 PM" src="https://user-images.githubusercontent.com/79284036/108431515-93359800-7208-11eb-868d-b20230875e47.png">
 
 
+#### - SERVICES AND ACCESSORIES
+
+##### Criteria: High CTR, High Impression, High Clicks
+
+<img width="558" alt="Screen Shot 2021-02-18 at 4 42 04 PM" src="https://user-images.githubusercontent.com/79284036/108431259-3c2fc300-7208-11eb-8376-f08d05ac8d0b.png">
+
+
+### 2. AWARENESS CAMPAIGN
+##### Criteria: High Impression
+
+<img width="557" alt="Screen Shot 2021-02-18 at 4 51 27 PM" src="https://user-images.githubusercontent.com/79284036/108432161-8d8c8200-7209-11eb-81e3-9ebc1b248d3a.png">
+<img width="545" alt="Screen Shot 2021-02-18 at 4 51 38 PM" src="https://user-images.githubusercontent.com/79284036/108432179-92513600-7209-11eb-8d45-2ce9e1d9d130.png">
+
+
+## CAMPAIGN PERFORMANCE
+
+<img width="653" alt="Screen Shot 2021-02-18 at 4 49 35 PM" src="https://user-images.githubusercontent.com/79284036/108431989-4acaaa00-7209-11eb-8dbb-1ece9f473021.png">
+
+<img width="378" alt="Screen Shot 2021-02-18 at 4 45 03 PM" src="https://user-images.githubusercontent.com/79284036/108431570-a8aac200-7208-11eb-858a-40b087c01d40.png">
 
 ## CAMPAIGN OPTIMIZATION
 ##### Optimization and Reasons:
@@ -38,19 +57,22 @@ High CTR, High Impression, High Clicks
 
 
 ## PERFORMANCE COMPARISON
-###### Average CPC was much lower than industry comparison
+##### Average CPC was much lower than industry comparison
 - This means that our advertising expense is much lower.
 - However this results in a lower AdRank due to lower 
 
-###### Our Quality Score was on the higher end within the industry.
+##### Our Quality Score was on the higher end within the industry.
 - If we were to increase our bidding price, we would be able to score more ad slots
+
+<img width="631" alt="Screen Shot 2021-02-18 at 4 52 34 PM" src="https://user-images.githubusercontent.com/79284036/108432257-b44ab880-7209-11eb-8eb4-3bc321919b1c.png">
+
 
 ## CONCLUSIONS AND OVERALL LEARNING
 We concluded our learnings at 4 different stages:
 
 ##### Campaign
 - Google Ads Campaigns should be designed in tandem with other on going business campaigns
-     - See and Be Seen campaign
+    - See and Be Seen campaign
 - Campaign bidding strategy should be selected in accordance with the campaign goal
    - CPM for Awareness
    - CPC for Sales
