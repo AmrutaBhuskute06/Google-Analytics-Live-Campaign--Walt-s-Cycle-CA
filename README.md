@@ -1,24 +1,38 @@
 # Google Analytics Live Campaign-Walt's Cycle CA
+###### Special Thanks
+Benjamin Scripoch and Michelle Scripoch (Team Walt’s Cycle)
+
+##### Team Members
+Ashutosh Barawkar | Amurta Bhuskute | Alankrita Roy | Tenjue Koh
+
  ## Summary
- Walt's Cycle is a bike shop and bicycle dealer serving Sunnyvale, California, and the South San Francisco Bay Area since 1953
+ Walt's Cycle is a bike shop and bicycle dealer serving Sunnyvale, California, and the South San Francisco Bay Area since 1953.
+
 Product and Service offerings:
-- Bicycle Sales
-- Parts and Accessories
-- Service
+   - Bicycle Sales
+   - Parts and Accessories
+   - Service
+   
+- Offers internet sales for certain products.
+- Does not offer delivery
+- Typical Customer Location: 30 Miles in and around store location
  
 ## Advertising Goals
- The Advertising Goals for Walt’s was two folds. 
+ The Advertising Goals for Walt’s was two folds: 
  1. Creating Awareness about Walt’s Cycle within its targeted customer base 
  2. Generating Sales through its online store
 
+### ACCOUNT STRUCTURE
+<img width="1067" alt="Screen Shot 2021-02-18 at 5 00 15 PM" src="https://user-images.githubusercontent.com/79284036/108432939-c7aa5380-720a-11eb-9a0f-5381e7ad6201.png">
+
 ### 1. PROMOTIONAL CAMPAIGN
-#### - BIKES
+#### BIKES
 ##### Criteria: High CTR, High Impression, High Clicks
 
 <img width="597" alt="Screen Shot 2021-02-18 at 4 44 30 PM" src="https://user-images.githubusercontent.com/79284036/108431515-93359800-7208-11eb-868d-b20230875e47.png">
 
 
-#### - SERVICES AND ACCESSORIES
+#### SERVICES AND ACCESSORIES
 
 ##### Criteria: High CTR, High Impression, High Clicks
 
