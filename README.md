@@ -3,7 +3,7 @@
 Benjamin Scripoch and Michelle Scripoch (Team Walt’s Cycle)
 
 ##### Team Members
-Ashutosh Barawkar | Amurta Bhuskute | Alankrita Roy | Tenjue Koh
+Ashutosh Barawkar | Alankrita Roy | Tenjue Koh | Amurta Bhuskute
 
  ## Summary
  Walt's Cycle is a bike shop and bicycle dealer serving Sunnyvale, California, and the South San Francisco Bay Area since 1953.
