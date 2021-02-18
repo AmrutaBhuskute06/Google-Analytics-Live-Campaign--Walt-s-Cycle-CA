@@ -14,9 +14,9 @@ Product and Service offerings:
   - Service
    
 #####    
--Offers internet sales for certain products.
--Does not offer delivery
--Typical Customer Location: 30 Miles in and around store location
+- Offers internet sales for certain products
+- Does not offer delivery
+- Typical Customer Location: 30 Miles in and around store location
  
 ## Advertising Goals
  The Advertising Goals for Walt’s was two folds: 
